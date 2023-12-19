@@ -169,10 +169,25 @@ footer p {
 
 
 .arrow-down {
-  width: 0;
-  height: 0;
-  border-left: 10px solid transparent;
-  border-right: 10px solid transparent;
-  border-top: 15px solid orange; 
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 15px solid orange; 
+}
+
+table {
+    width: 100%; 
+    margin-top: 20px; 
+    border-collapse: collapse; 
+}
+
+table, th, td {
+    border: 1px solid #F2AC53; 
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
 }
 
