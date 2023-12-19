@@ -201,7 +201,7 @@ input[type="submit"] {
       padding: 10px;
       margin-bottom: 10px;
 }
-#form button {
+.form button {
     background-color: #4caf50;
     color:#D9D9D9;
     padding: 10px;
@@ -212,7 +212,7 @@ input[type="submit"] {
     text-align: center;
 }
 
-#form button:hover {
+.form button:hover {
     background-color: #45a049;
 }
 
