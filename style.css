@@ -190,4 +190,15 @@ th, td {
     padding: 8px;
     text-align: left;
 }
+form {
+      max-width: 300px;
+      margin: 0 auto;
+    }
+    input[type="text"],
+    input[type="password"],
+    input[type="submit"] {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
 
