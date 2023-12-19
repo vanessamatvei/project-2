@@ -42,7 +42,7 @@ header {
     text-align: center;
     padding: 20px;
     font-family: "Hedvig Letters Serif", sans-serif;
-    margin: 40px;
+    margin-top: 40px;
 }
 header h1 {
     font-family: "Hedvig Letters Serif", sans-serif;
@@ -66,7 +66,6 @@ img {
     margin: 40px;
     transition: transform 0.3s ease-in-out;
     display: block;
-    margin-bottom: 10px;
     border-radius: 4px;
 }
 
@@ -90,11 +89,11 @@ section figcaption {
 #first-img,
 #third-img {
     float: right;
-    margin-right: 20px; 
+    margin-right: 30px; 
 }
 #second-img, #left {
     float: left;
-    margin-left: 20px; 
+    margin-left: 30px; 
 }
 
 /* FOOTER */
