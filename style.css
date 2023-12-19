@@ -72,6 +72,11 @@ section {
     color: rgba(56, 47, 158, 0.7);
     margin: 20px;
 }
+#subscription{
+    display: flex;
+    justify-content: center;
+}
+
 img {
     width: 40%;
     height: auto;
