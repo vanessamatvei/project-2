@@ -30,7 +30,7 @@ body {
     font-family: "Hedvig Letters Serif", sans-serif;
     margin: 0;
     padding: 20px;
-    background-image: url('https://cdn.mos.cms.futurecdn.net/aFB2p4XLvtZNYXPLnniNdQ-1200-80.jpg'); 
+    background-image: url('https://media.istockphoto.com/id/1162632977/vector/fitness-activities-icons.jpg?s=612x612&w=0&k=20&c=bWcshZ6VkpBRY5zd9pr7Ff3er4FiMOkIAJZal8_4x_o='); 
     background-size: cover;
     background-position: center;
     background-color: transperent;
@@ -52,7 +52,7 @@ header p {
     font-size: 1.2em;
 }  
 
-/* SECTION (of the body) *//* 
+/* SECTION (of the body) */
 section {
     padding: 40px;
     background-color: #FFF6EB;
@@ -91,7 +91,7 @@ section figcaption {
     float: left;
     margin-left: 20px; 
 }
-*/
+
 /* FOOTER */
 footer {
     text-align: center;
@@ -129,4 +129,4 @@ footer p {
 }
 .social-media-icons img:hover {
     transform: scale(1.2);
-} */
+} 
