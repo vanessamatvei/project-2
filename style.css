@@ -232,11 +232,9 @@ input[type="submit"] {
     cursor: pointer;
     transition: transform 0.3s ease;
     float: none; 
-    display: inline-block;
     text-align: center;
-    position: absolute;
-    bottom: 0;
-    right: 0;
+    display: block;
+    margin: 0 auto;
 }
 #access1 button:hover,
 #access1 button:focus,
@@ -244,11 +242,13 @@ input[type="submit"] {
 #access2 button:focus {
     transform: scale(1.1);
 }
-#center div{
+#center {
     text-align: center;
     position: absolute;
     bottom: 0;
     right: 0;
-    float: none; 
+    float: none;
+    display: block;
+    margin: 0 auto;
 }
     
