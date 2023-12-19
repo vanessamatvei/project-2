@@ -82,6 +82,8 @@ section figcaption {
     color: rgb(80, 88, 213);
     background-color: rbga(255, 246, 235, 0.7);
     border-radius: 6px;
+    border: 2px solid;
+    border-color: FFF6EB;
 }
 
 #first-img,
