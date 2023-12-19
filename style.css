@@ -24,7 +24,7 @@ button {
 #access-button:hover {
     transform: scale(1.1);
     background-color: rgba(218, 218, 218, 0.7);
-}
+} */
 
 /* BODY */ /* 
 body {
@@ -34,7 +34,7 @@ body {
     background-image: url('https://cdn.mos.cms.futurecdn.net/aFB2p4XLvtZNYXPLnniNdQ-1200-80.jpg'); 
     background-size: cover;
     background-position: center;
-}
+} */
 
 /* HEADER (of the body) */ /* 
 header {
@@ -50,7 +50,7 @@ header h1 {
 }
 header p {
     font-size: 1.2em;
-}
+}  */
 
 /* SECTION (of the body) *//* 
 section {
@@ -91,13 +91,7 @@ section figcaption {
     float: left;
     margin-left: 20px; 
 }
-
-h2 {
-    font-size: 1.5em;
-    margin-bottom: 20px;
-}
-
-
+*/
 /* FOOTER *//* 
 footer {
     text-align: center;
@@ -114,7 +108,7 @@ footer p {
 }
 .info-footer p {
     margin: 5px 0;
-}
+} */
 
 /* Social Media Icons*/
 .social-media-icons {
