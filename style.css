@@ -38,7 +38,7 @@ body {
 
 /* HEADER (of the body) */ 
 header {
-    background-color: rgba(252,153,4, 0.7);
+    background-color: transparent;
     text-align: center;
     padding: 40px;
 }
