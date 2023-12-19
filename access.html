@@ -24,9 +24,22 @@
   <hr style="color:#FFF6EB;">
   <body>
     <form action="/login" method="post">
-      <h2>Sign In</h2>
+      <h3>Sign In</h3>
+      <label for="name">Write your name:</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="surname">Write your surname:</label>
+      <input type="text" id="surname" name="surname" required>
+      
+      <label for="username"> Set a username: </label>
       <input type="text" name="username" placeholder="Username" required>
+      
+      <label for="password">Set a password:</label>
       <input type="password" name="password" placeholder="Password" required>
+      
+      <p>Confirm your password:</p>
+      <input type="password" name="password" placeholder="Password" required>
+      
       <input type="submit" value="Sign In">
     </form>
   </body>
