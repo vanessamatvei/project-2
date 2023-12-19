@@ -67,8 +67,6 @@ img {
     transition: transform 0.3s ease-in-out;
     display: block;
     margin-bottom: 10px;
-    border-radius: 8px;
-    
 }
 
 #first-img:hover,
@@ -81,6 +79,8 @@ section figcaption {
     width: 40%;
     padding: 20px;
     color: rgb(80, 88, 213);
+    background-color: rbga(255, 246, 235, 0.7);
+    border-radius: 6px;
 }
 
 #first-img,
