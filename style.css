@@ -83,8 +83,7 @@ section figcaption {
     border-radius: 6px;
     border: 2px solid;
     border-color: FFF6EB;
-    margin-left: 20px;
-    margin-top: 40px;
+    margin: 40px, 20px, 40px, 20px;
 }
 
 #first-img,
