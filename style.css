@@ -28,6 +28,7 @@ button:focus {
     background-color:#80D9F1;
     color: #FFF6EB;
     border-radius:7px;
+    float: center;
 }
 /* BODY */  
 body {
@@ -225,7 +226,7 @@ input[type="submit"] {
     font-family: Arial, sans-serif;
     cursor: pointer;
     transition: transform 0.3s ease;
-    text-align: center;
+    float: center;
 }
 #access1:hover,
 #access1:focus,
