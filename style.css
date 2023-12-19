@@ -102,6 +102,12 @@ section figcaption {
     legth: auto;
     margin-bottom: 30px;
 }
+#fig1,
+#fig2,
+#fig3 {
+    display: flex;
+    align-items: center;
+}
 
 /* FOOTER */
 footer {
