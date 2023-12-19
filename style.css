@@ -31,6 +31,9 @@ button:focus {
     text-align: center;
     float: none; 
     display: inline-block;
+    position: absolute;
+    bottom: 0;
+    right: 0;
 }
 /* BODY */  
 body {
@@ -231,6 +234,9 @@ input[type="submit"] {
     float: none; 
     display: inline-block;
     text-align: center;
+    position: absolute;
+    bottom: 0;
+    right: 0;
 }
 #access1:hover,
 #access1:focus,
