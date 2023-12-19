@@ -35,6 +35,14 @@ body {
     background-color: #FFF6EB;
     color: rgba(56, 47, 158, 0.7);
 } 
+#hr-primary {
+    color:#FFF6EB;
+    visibility: visible;
+}
+hr {
+    visibility: hidden;
+}
+
 
 /* HEADER (of the body) */ 
 header {
