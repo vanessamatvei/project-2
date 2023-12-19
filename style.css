@@ -95,7 +95,8 @@ section figcaption {
 }
 
 #first-img,
-#third-img {
+#third-img,
+.float-right {
     float: right;
     margin-right: 30px; 
     margin-bottom: 30px;
