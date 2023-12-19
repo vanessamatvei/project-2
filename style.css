@@ -183,7 +183,7 @@ table {
 }
 
 table, th, td {
-    border: 1px solid #F2AC53; 
+    border: 1px solid rgba(56, 47, 158, 0.7); 
 }
 
 th, td {
