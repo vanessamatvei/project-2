@@ -193,12 +193,25 @@ th, td {
 form {
       max-width: 300px;
       margin: 0 auto;
-    }
-    input[type="text"],
-    input[type="password"],
-    input[type="submit"] {
+}
+input[type="text"],    
+input[type="password"],
+input[type="submit"] {
       width: 100%;
       padding: 10px;
       margin-bottom: 10px;
-    }
+}
+#form button {
+    background-color: #4caf50;
+    color:#D9D9D9;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#form button:hover {
+    background-color: #45a049;
+}
 
