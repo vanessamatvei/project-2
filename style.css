@@ -39,7 +39,7 @@ body {
 
 /* HEADER (of the body) */ 
 header {
-    background-color: transparent;
+    background-color: #FFF6EB;
     text-align: center;
     padding: 40px;
     font-family: "Hedvig Letters Serif", sans-serif;
@@ -61,7 +61,7 @@ section {
     margin: 20px;
 }
 img {
-    width: 500px;
+    width: 370px;
     height: auto;
     margin: 20px;
     transition: transform 0.3s ease-in-out;
