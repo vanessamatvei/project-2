@@ -17,7 +17,6 @@ button:focus {
 }
 #access {
     background-color: rgba(232, 232, 232, 0.5);
-    color: white;
     border-radius: 5px;
 }
 #access:hover {
@@ -39,10 +38,11 @@ body {
 
 /* HEADER (of the body) */ 
 header {
-    background-color: #FFF6EB;
+    background-color: rgba(255, 246, 235, 0.3);
     text-align: center;
-    padding: 40px;
+    padding: 20px;
     font-family: "Hedvig Letters Serif", sans-serif;
+    margin: 40px;
 }
 header h1 {
     font-family: "Hedvig Letters Serif", sans-serif;
@@ -63,7 +63,7 @@ section {
 img {
     width: 300px;
     height: auto;
-    margin: 20px;
+    margin: 40px;
     transition: transform 0.3s ease-in-out;
     display: block;
     margin-bottom: 10px;
@@ -84,6 +84,7 @@ section figcaption {
     border-radius: 6px;
     border: 2px solid;
     border-color: FFF6EB;
+    margin: 40px;
 }
 
 #first-img,
