@@ -1,5 +1,6 @@
 /* Nav-Bar BUTTONS*/
 button { 
+    background-color: transparent;
     color: white; 
     padding: 10px 20px;
     border: none;
@@ -7,13 +8,11 @@ button {
     cursor: pointer;
     float: right;
     margin-left: 10px; 
+    transition: transform 0.3s ease;
 }
-/* 
- .enlarge {
-    transition: transform 0.3s ease; 
-}
-.enlarge:hover,
-.enlarge:focus {
+
+button:hover,
+button:focus {
     transform: scale(1.1);
 }
 #access-button {
@@ -24,7 +23,7 @@ button {
 #access-button:hover {
     transform: scale(1.1);
     background-color: rgba(218, 218, 218, 0.7);
-} */
+} 
 
 /* BODY */ /* 
 body {
