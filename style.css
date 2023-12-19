@@ -23,7 +23,11 @@ button:focus {
     transform: scale(1.1);
     background-color: rgba(218, 218, 218, 0.7);
 } 
-
+#access-btn {
+    background-color:80D9F1;
+    color: #FFF6EB;
+    border-radius:7px;
+}
 /* BODY */  
 body {
     font-family: "Hedvig Letters Serif", sans-serif;
