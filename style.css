@@ -16,53 +16,54 @@ button.enlarge:focus {
     transform: scale(1.1);
 }
 #access-button {
-  background-color: rgba(232, 232, 232, 0.5);
-  color; white;
+    background-color: rgba(232, 232, 232, 0.5);
+    color: white;
+    border-radius: 10px;
 }
 #access-button:hover {
-  transform: scale(1.1);
-  background-color: rgba(218, 218, 218, 0.7);
+    transform: scale(1.1);
+    background-color: rgba(218, 218, 218, 0.7);
 }
 
 /* BODY */
 body {
-  font-family: "Hedvig Letters Serif", sans-serif;
-  margin: 0;
-  padding: 20px;
+    font-family: "Hedvig Letters Serif", sans-serif;
+    margin: 0;
+    padding: 20px;
 }
 
 /* HEADER (of the body) */
 header {
-  background-color: rgba(252,153,4, 0.7);
-  text-align: center;
-  padding: 40px;
-  background-image: url("https://media.istockphoto.com/id/1077291642/photo/gym-dumbbells-with-black-metal-weights-1kg-and-2kg-on-black-background-with-copy-sapce.jpg?b=1&s=170667a&w=0&k=20&c=DUeab-vO_LvWn65KToCeuCxZC-pPPWcaaDLGtOYDA_M=");
-  background-size: cover;
-  background-position: center;
+    background-color: rgba(252,153,4, 0.7);
+    text-align: center;
+    padding: 40px;
+    background-image: url("https://media.istockphoto.com/id/1077291642/photo/gym-dumbbells-with-black-metal-weights-1kg-and-2kg-on-black-background-with-copy-sapce.jpg?b=1&s=170667a&w=0&k=20&c=DUeab-vO_LvWn65KToCeuCxZC-pPPWcaaDLGtOYDA_M=");
+    background-size: cover;
+    background-position: center;
 }
 header h1 {
-  font-family: "Hedvig Letters Serif", sans-serif;
-  font-size: 2em;
-  margin-bottom: 10px;
-  font-weight: bold;
+    font-family: "Hedvig Letters Serif", sans-serif;
+    font-size: 2em;
+    margin-bottom: 10px;
+    font-weight: bold;
 }
 header p {
-  font-size: 1.2em;
+    font-size: 1.2em;
 }
 
 /* SECTION (of the body) */
 section {
-  padding: 40px;
-  background-color: rgba(56, 47, 158, 0.7);
-  color: #FFF6EB;
-  margin: 20px;
+    padding: 40px;
+    background-color: rgba(56, 47, 158, 0.7);
+    color: #FFF6EB;
+    margin: 20px;
 }
 img {
-  width: 200px;
-  height: 150px;
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
-  margin: 20px;
-  transition: transform 0.3s ease-in-out;
+    width: 200px;
+    height: 150px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    margin: 20px;
+    transition: transform 0.3s ease-in-out;
 }
 /*.global img {
   width: 300px;
@@ -75,7 +76,7 @@ img {
 #first-img:hover,
 #second-img:hover,
 #third-img:hover {
-  transform: scale(1.1);
+    transform: scale(1.1);
 }
 
  /* background-color: rgba(83, 155, 242, 0.7);
@@ -85,24 +86,24 @@ img {
 } */
 
 section p {
-  width: 40%;
-  padding: 20px;
-  color: rgb(141, 147, 241);
+    width: 40%;
+    padding: 20px;
+    color: rgb(141, 147, 241);
 }
 
 #first-img,
 #third-img {
-  float: right;
-  margin-right: 20px; 
+    float: right;
+    margin-right: 20px; 
 }
 #second-img {
-  float: left;
-  margin-left: 20px; 
+    float: left;
+    margin-left: 20px; 
 }
 
 h2 {
-  font-size: 1.5em;
-  margin-bottom: 20px;
+    font-size: 1.5em;
+    margin-bottom: 20px;
 }
 
 
@@ -110,39 +111,39 @@ h2 {
 
 /* FOOTER */
 footer {
-  text-align: center;
-  padding: 20px;
-  background-color: rgba(0, 0, 0, 0.5);
-  color: #d9d9d9;
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #d9d9d9;
 }
 footer p {
-  font-size: 0.8em;
+    font-size: 0.8em;
 }
 .info-footer {
-  text-align: center;
-  margin-top: 20px;
+    text-align: center;
+    margin-top: 20px;
 }
 .info-footer p {
-  margin: 5px 0;
+    margin: 5px 0;
 }
 
 /* Social Media Icons*/
 .social-media-icons {
-  margin-top: 10px;
-  display: flex;
-  justify-content: center;
-}
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+} 
 .social-media-icons a {
-  margin: 0 10px;
-  text-decoration: none;
+    margin: 0 10px;
+    text-decoration: none;
 }
 .social-media-icons img {
-  width: 30px;
-  height: 30px;
-  cursor: pointer;
-  transition: transform 0.3s ease-in-out;
-  filter: invert(1);
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+    filter: invert(1);
 }
 .social-media-icons img:hover {
-  transform: scale(1.2);
+    transform: scale(1.2);
 }
