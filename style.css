@@ -222,8 +222,8 @@ input[type="submit"] {
     background-color: #45a049;
 }
 
-#access1,
-#access2 {
+#access1 button,
+#access2 button {
     color:#FFF6EB; 
     background-color:#80D9F1; 
     border-radius:7px; 
@@ -238,10 +238,10 @@ input[type="submit"] {
     bottom: 0;
     right: 0;
 }
-#access1:hover,
-#access1:focus,
-#access2:hover,
-#access2:focus {
+#access1 button:hover,
+#access1 button:focus,
+#access2 button:hover,
+#access2 button:focus {
     transform: scale(1.1);
 }
 #center div{
