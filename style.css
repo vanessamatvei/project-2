@@ -67,6 +67,7 @@ img {
     transition: transform 0.3s ease-in-out;
     display: block;
     margin-bottom: 10px;
+    border-radius: 2px;
 }
 
 #first-img:hover,
