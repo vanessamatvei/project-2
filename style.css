@@ -33,6 +33,7 @@ body {
     background-image: url('https://cdn.mos.cms.futurecdn.net/aFB2p4XLvtZNYXPLnniNdQ-1200-80.jpg'); 
     background-size: cover;
     background-position: center;
+    background-color: transperent;
 } 
 
 /* HEADER (of the body) */ 
