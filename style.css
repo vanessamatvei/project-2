@@ -1,4 +1,4 @@
-/* MAIN BUTTONS*/
+/* Nav-Bar BUTTONS*/
 button { 
     color: white; 
     padding: 10px 20px;
@@ -59,9 +59,8 @@ section {
     margin: 20px;
 }
 img {
-    width: 200px;
-    height: 150px;
-    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    width: auto;
+    height: auto;
     margin: 20px;
     transition: transform 0.3s ease-in-out;
 }
@@ -105,8 +104,6 @@ h2 {
     font-size: 1.5em;
     margin-bottom: 20px;
 }
-
-
 
 
 /* FOOTER */
