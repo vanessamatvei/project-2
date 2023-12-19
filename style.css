@@ -61,7 +61,7 @@ section {
     margin: 20px;
 }
 img {
-    width: auto;
+    width: 500px;
     height: auto;
     margin: 20px;
     transition: transform 0.3s ease-in-out;
@@ -89,7 +89,7 @@ section figcaption {
     float: right;
     margin-right: 20px; 
 }
-#second-img {
+#second-img, #left {
     float: left;
     margin-left: 20px; 
 }
